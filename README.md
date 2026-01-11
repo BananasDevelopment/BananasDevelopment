@@ -43,17 +43,6 @@ Desarrollamos soluciones a medida para tu negocio:
 
 ---
 
-## 🏆 Proyectos Destacados
-
-Algunos de los trabajos que definen nuestra calidad:
-
-| Proyecto | Descripción | Tech Stack |
-| :--- | :--- | :--- |
-| **Nombre del Proyecto 1** | *Breve descripción de qué hace el sistema y el problema que resolvió.* | `React` `Laravel` `MySQL` |
-| **Nombre del Proyecto 2** | *Descripción corta del segundo proyecto o MVP.* | `Flutter` `Firebase` `NodeJS` |
-| **Próximamente...** | *Estamos cocinando algo increíble.* | `AI` `Python` |
-
----
 
 ## 🛠 Stack Tecnológico
 
